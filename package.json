@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.22.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "timeago.js": "^4.0.2"
+  }
+}
